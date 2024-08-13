@@ -1,0 +1,31 @@
+.ss{
+    background-color: #bf97e4;
+}
+
+.aa{
+    background-color: #a295dc;
+}
+
+.ee{
+    text-align: center;
+    font-size: large;
+}
+
+.tt{
+    margin: 0 auto;
+    width: 1000px;
+    height: 627px; ;
+}
+
+.qq{
+    font-size:small;
+    text-align: center;
+}
+
+.Nutricionista{
+    text-align: center; 
+}
+
+body{
+    background-color: rgb(205, 205, 205);
+}
